@@ -2,7 +2,7 @@
 
 About this Project
 
-The goal of this project was to take the dataset located here, from this source and perform a series of abstractions and transformations in order to collect and clean up the dataset for later analysis.
+The goal of this project was to take data from a dataset and perform a series of abstractions and transformations in order to collect and clean up the dataset for later analysis.
 
 File descriptions
 
